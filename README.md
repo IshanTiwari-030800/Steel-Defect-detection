@@ -1,0 +1,1 @@
+Add the images and masks in the data folder. In data, create 4 sub folders - train_images, train_masks, test_images, val_images, val_masks. Upload the corresponding images and masks from the kaggle repo. Store the masks as numpy files and images as jpg. The jupyter notebook is given here for mask creation. Modify accordingly.
